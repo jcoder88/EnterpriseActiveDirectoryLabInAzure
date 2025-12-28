@@ -2,13 +2,13 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1 align="center">Enterprise Active Directory Deployment & Management in Azure</h1>
+<h1 align="center">Active Directory Administration in Microsoft Azure</h1>
 
 <p>The goal of this lab is to deploy and configure Active Directory (AD) in a virtualized environment using Azure. We will create a Domain Controller (DC), join a client machine to the domain, and configure user accounts and Remote Desktop access for both administrative and non-administrative users.</p>
 
 <h2>John T.C. Idundun - Portfolio Project</h2>
 
-- ### [Website: Enterprise Active Directory Deployment & Management in Azure](https://bit.ly/AD-Homelab001)
+- ### [Active Directory Administration in Microsoft Azure](https://bit.ly/AD-Homelab001)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 <ol>
